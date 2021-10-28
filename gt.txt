@@ -17,12 +17,6 @@ cctv-1港澳版,https://cdn.hkdtmb.com/hls/33/index.m3u8
 Now新闻台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
-中视,http://50.7.61.148:30080/Entry/ctv
-台视,http://50.7.61.148:30080/Entry/ttv
-民视,http://50.7.61.147:30080/Entry/ftv
-民视新闻,http://50.7.61.148:30080/Entry/ftvnews
-华视CTS,http://50.7.61.147:30080/Entry/cts
-非凡商业,http://50.7.61.147:30080/Entry/ubnbus
 A1台 (720p),https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 台視綜合台,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
 公視13台,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
@@ -35,13 +29,32 @@ A1台 (720p),https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 衛視電影中文,http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
 東森洋片,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-壹新闻,http://50.7.61.147:30080/Entry/etv
+高点综合,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
+高点育乐,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
+霹雳台湾台,https://flv3948069e.live.126.net/live/sytv_e3d30bd35e84661fc99dde3c7e773f89.flv
+Z频道,https://flv3948069e.live.126.net/live/sytv_68130b91ee8465fdeb3dde2c8e773a3f.flv
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+东森新闻,http://50.7.61.147:30080/Entry/etnews
+HBO,http://50.7.61.148:30080/Entry/hbo
+纬来日本,http://50.7.61.147:30080/Entry/vljp
+台视 HD,http://50.7.61.148:30080/Entry/ttv
 TVBS HD,http://50.7.61.148:30080/Entry/tvbs
-AXN,http://50.7.61.148:30080/Entry/axn
+民视新闻,http://50.7.61.148:30080/Entry/ftvnews
+中视 HD,http://50.7.61.148:30080/Entry/ctv
+TVBS新闻 HD,http://50.7.61.148:30080/Entry/tvbsnews
+非凡商业 HD,http://50.7.61.147:30080/Entry/ubnbus
+TLC,http://50.7.61.147:30080/Entry/tlc
 JET综合,http://50.7.61.147:30080/Entry/jet
-年代MUCH,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
+民视 HD,http://50.7.61.147:30080/Entry/ftv
+华视CTS HD,http://50.7.61.147:30080/Entry/cts
+壹新闻 HD,http://50.7.61.147:30080/Entry/etv
+SET三立台湾,http://50.7.61.148:30080/Entry/settw-
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
+AXN,http://50.7.61.148:30080/Entry/axn
+中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
+東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
+年代MUCH,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
