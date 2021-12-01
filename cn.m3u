@@ -77,8 +77,6 @@ http://39.134.19.153:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/i
 http://39.134.19.68:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1,欢笑剧场4K
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1,上海东方影视
-http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1,四川影视
 http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 #EXTINF:-1,福州综合
