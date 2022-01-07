@@ -1,1 +1,11 @@
-
+民視第一台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/index.m3u8?token=Bz0hGjQVagOm4AMlhxsGLQ&expires=1641567097&token1=o1khnGCmeiSIGmJWn42eIg&expires1=1641567097
+民視台灣台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv001/4gtv-live-mid/index.m3u8?token=hdQRtamxDUbsL5CrGuhL8g&expires=1641567133&token1=BX_sYwfgvvGjQgWRJIP9VQ&expires1=1641567133
+民視,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/index.m3u8?token=8e0yvwRp54HA5ggDPpc0wA&expires=1641567172&token1=1y6Z5VrBFyFBz5tKpb0bzg&expires1=1641567172
+大爱,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live007/4gtv-live-mid/index.m3u8?token=TkOoxK2-Hk6cyMM2ghwDeg&expires=1641567202&token1=KO-czuBLHfiqVhEBJl2EqQ&expires1=1641567202
+中視,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv040/4gtv-live-mid/index.m3u8?token=56a1-jEWDyKg1zzYFCmI7A&expires=1641567235&token1=cEVQ0oRSyFzy02ZQNqlvrw&expires1=1641567235
+中视经典台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv080/4gtv-live-mid/index.m3u8?token=bN71AunBSkQGiunFrhlGBA&expires=1641550475&token1=NDN9l10FXIby-7lFLSEBlw&expires1=1641550475
+华视,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv041/4gtv-live-mid/index.m3u8?token=wcCBmlMvXEw3qxyQMQ9j3g&expires=1641567321&token1=S_Bk9J0pVkLWoKnfT_I4vg&expires1=1641567321
+三立综合台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live207/4gtv-live-mid/index.m3u8?token=CFJjxCakihHyk84c2V4cvA&expires=1641567354&token1=PT8RpLRxEtiBdCaTL7j6ww&expires1=1641567354
+客家电视台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv043/4gtv-live-mid/index.m3u8?token=nRY5fuHF0KKm_Un487rfzw&expires=1641567385&token1=iuw5OKAVDMCEZRZRguKVFw&expires1=1641567385
+八大综艺台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv039/4gtv-live-mid/index.m3u8?token=mDXvZUZE0aMVun-FaM68dw&expires=1641550626&token1=VfZ4cWenKRpI6LDWG0P-0Q&expires1=1641550626
+中视菁采台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv064/4gtv-live-mid/index.m3u8?token=mLEJ34uiI87zyClb_C_VgQ&expires=1641550673&token1=OA85WWDy5OKyrnbaeqIV1w&expires1=1641550673
