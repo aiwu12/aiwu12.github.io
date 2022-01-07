@@ -9,3 +9,64 @@
 客家电视台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv043/4gtv-live-mid/index.m3u8?token=nRY5fuHF0KKm_Un487rfzw&expires=1641567385&token1=iuw5OKAVDMCEZRZRguKVFw&expires1=1641567385
 八大综艺台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv039/4gtv-live-mid/index.m3u8?token=mDXvZUZE0aMVun-FaM68dw&expires=1641550626&token1=VfZ4cWenKRpI6LDWG0P-0Q&expires1=1641550626
 中视菁采台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv064/4gtv-live-mid/index.m3u8?token=mLEJ34uiI87zyClb_C_VgQ&expires=1641550673&token1=OA85WWDy5OKyrnbaeqIV1w&expires1=1641550673
+TVBS精采台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live086/4gtv-live-mid/index.m3u8?token=XjNhuK0qWUzfcs7BGo01QA&expires=1641553654&token1=9VJt99_oVerxOjD9-fS33g&expires1=1641553654
+愛爾達娛樂台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv070/4gtv-live-mid/index.m3u8?token=InEMAQJslxp8KW8mzadm3Q&expires=1641553702&token1=tCWf6wn-2t3K12lnnb_lrQ&expires1=1641553702
+靖天綜合台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv046/4gtv-live-mid/index.m3u8?token=As0CbJRT03wZPtiz-QuvIg&expires=1641553719&token1=ruj8OaYXQ6Ec_qYdUgw8wg&expires1=1641553719
+靖天日本台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv047/4gtv-live-mid/index.m3u8?token=N-CD1K-ex_pq6WKNyviMIA&expires=1641553748&token1=X1QdKMRkjB20FCx2ysvPEA&expires1=1641553748
+新唐人亞太台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live050/4gtv-live-mid/index.m3u8?token=-MOmNRHh6i_uTPEjFz5rew&expires=1641570571&token1=NmHAqYq2XS-BQDJvv73Dmw&expires1=1641570571
+中天綜合台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live033/4gtv-live-mid/index.m3u8?token=nJZd3V4ISuUuBuxvACFVtw&expires=1641553788&token1=9rx9AIWB8ZnQQu5jHSFuRw&expires1=1641553788
+ARIRANG阿里郎頻道,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv079/4gtv-live-mid/index.m3u8?token=dHaOOzmXvPizCP3AzgxA6g&expires=1641570605&token1=Z2fLER1fzJ_BN3Rm7hspbg&expires1=1641570605
+LiveABC互動英語頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live030/4gtv-live-mid/index.m3u8?token=AxsbPgr0whceoWtvlNQg2w&expires=1641570621&token1=4XIVz-y8uEk0CSASgLftTg&expires1=1641570621
+達文西頻道,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv018/4gtv-live-mid/index.m3u8?token=qenpwjPfFu6megBUTLmQtA&expires=1641553844&token1=bToP97tYcAYYwN_7X8PsCA&expires1=1641553844
+ELTV生活英語台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn20/4gtv-live-mid/index.m3u8?token=0K5W7vRO9QS1lQns5Wh4Yg&expires=1641570662&token1=sn0ZLmHqf64i8oHK6c2C_w&expires1=1641570662
+Nick Jr. 兒童頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live032/4gtv-live-mid/index.m3u8?token=vcGYujWAxk6E5TT83jc8Ug&expires=1641553880&token1=C38abkxWlASc0m5yoYVe0g&expires1=1641553880
+尼克兒童頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live105/4gtv-live-mid/index.m3u8?token=SaAXQ6xWvuNm8YtGmbg3TA&expires=1641553902&token1=NGNXNiA8i3v-wGUhdMTNYA&expires1=1641553902
+靖天卡通台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv044/4gtv-live-mid/index.m3u8?token=2OvQpraZTp81XH7ih5eaXw&expires=1641553921&token1=AJ4LCJ0HUJUpYn56-DQtJA&expires1=1641553921
+靖洋卡通Nice Bingo,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv057/4gtv-live-mid/index.m3u8?token=xKPRmiEN4ZALTmw8QPVbdg&expires=1641553936&token1=vyYcoLOYwj2zUFI_4cFS6g&expires1=1641553936
+i-Fun動漫台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv15/4gtv-live-mid/index.m3u8?token=aqP_y3orFd53oCZTCED0sQ&expires=1641553958&token1=t80fPkn-voiKnNFX4ZzYHw&expires1=1641553958
+MOMO親子台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-live-mid/index.m3u8?token=N_KUjoGbzJ-qxvo4Tzg47g&expires=1641570777&token1=1_24l6GWlvpg0oI-Dayuag&expires1=1641570777
+CN卡通,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live205/4gtv-live-mid/index.m3u8?token=X2Q5Fsww4Ayw4HSkOIX53Q&expires=1641553999&token1=e_9j_sgZfPBv7w9MM9yPfA&expires1=1641553999
+東森新聞台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live114/4gtv-live-mid/index.m3u8?token=Fe5sVvr7fIX5TXszNegD_Q&expires=1641570841&token1=XQL18H3Fuo_ZDa0bv_a2kg&expires1=1641570841
+華視新聞,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv052/4gtv-live-mid/index.m3u8?token=jz-0EOe0brXsepXLBiWHSw&expires=1641570871&token1=c8z-DDiIB0oEugO8rI8-VA&expires1=1641570871
+民視新聞台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv13/4gtv-live-mid/index.m3u8?token=nETBDdZjU4c6dC92TCZj1w&expires=1641570884&token1=ey1AAdqYHAgV2HB_Qhq61w&expires1=1641570884
+三立財經新聞iNEWS,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live089/4gtv-live-mid/index.m3u8?token=xaSAW1VrTbmH-xmXar7mJw&expires=1641570897&token1=tOAb6_ZUl4bPCz5TJ8b7Gw&expires1=1641570897
+TVBS新聞,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live072/4gtv-live-mid/index.m3u8?token=FLzZldA--6wcgw5Jl0dcaw&expires=1641570913&token1=8Khw9Y3dDnAvf_JlqUEcSw&expires1=1641570913
+東森財經新聞台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live019/4gtv-live-mid/index.m3u8?token=YBiuTPR-yBriPrfhptKeVA&expires=1641570927&token1=InmfOHtq9VeUDzoyRJdO1Q&expires1=1641570927
+中視新聞,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live019/4gtv-live-mid/720.m3u8?token=YBiuTPR-yBriPrfhptKeVA&expires=1641570927&token1=InmfOHtq9VeUDzoyRJdO1Q&expires1=1641570927
+中天新聞台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv009/4gtv-live-mid/index.m3u8?token=hAIL599XIH_xNizgrN9Hdg&expires=1641570975&token1=QocTn2seuzYcBYWOqrncFw&expires1=1641570975
+寰宇新聞台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn14/4gtv-live-mid/index.m3u8?token=mj7KDHzCCHsgPQWIyVMefA&expires=1641554190&token1=OKDOWyQ7xVTnvUuj2B2v9Q&expires1=1641554190
+SBN全球財經台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live060/4gtv-live-mid/index.m3u8?token=KjOA7qAb9r8REKZgu8f2dQ&expires=1641571009&token1=AB8ncbBIVisXZWCxd3PB5g&expires1=1641571009
+TVBS,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv073/4gtv-live-mid/index.m3u8?token=JRFQbRQxsoOGQwkCff-kGA&expires=1641554227&token1=K52Z2FoN7hu199oDTstnsw&expires1=1641554227
+靖天育樂台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv062/4gtv-live-mid/index.m3u8?token=v2SLtneZaoS3yMs__cOSvQ&expires=1641554314&token1=RaMPm5dCsUA37rXyfZKXDA&expires1=1641554314
+KLT-靖天國際台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv063/4gtv-live-mid/index.m3u8?token=FYw1l-m6ExmF7Pf7Bo7XjA&expires=1641554331&token1=DvFsq9aBjkcMtVzyk8LiSA&expires1=1641554331
+Nice TV 靖天歡樂台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv054/4gtv-live-mid/index.m3u8?token=4nvxno51EGu7BUtfQhXcxQ&expires=1641554349&token1=PDrqnX_UCnxvOmtpCbHBLQ&expires1=1641554349
+靖天資訊台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv065/4gtv-live-mid/index.m3u8?token=5rGoBL_DhPoDgPjZfc8VzA&expires=1641554441&token1=U9HIBKjZqlR4WeX4NDkFTA&expires1=1641554441
+TVBS歡樂台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv068/4gtv-live-mid/index.m3u8?token=ErrTlAe-5LJRPINBufhIIg&expires=1641554507&token1=5sQP1bpvG31Zmc_idyeAQQ&expires1=1641554507
+韓國娛樂台 KMTV,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv016/4gtv-live-mid/index.m3u8?token=WhC0MSECdfkdH9E9AuJ8Tw&expires=1641554522&token1=RGW275dk2HW24nFNvoxVRQ&expires1=1641554522
+Lifetime 娛樂頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live029/4gtv-live-mid/index.m3u8?token=iGduJgEQnUMAIOX8J7wiwA&expires=1641554538&token1=1GZI30DAWciLc0fF8WlLEA&expires1=1641554538
+電影原聲台CMusic,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live031/4gtv-live-mid/index.m3u8?token=vfLEobXzEMjmQX1idOL-RQ&expires=1641554559&token1=ykogU4sSd4wqhmH_79y0sg&expires1=1641554559
+MTV Live HD 音樂頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live025/4gtv-live-mid/index.m3u8?token=6cUdk5gDvOeUWDfkwGUkog&expires=1641554581&token1=7l7dW5Z1JRVDPA1S6sH1VQ&expires1=1641554581
+亞洲旅遊台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn17/4gtv-live-mid/index.m3u8?token=_xvP0SdLKyM5aTK45LaceQ&expires=1641571408&token1=kysatAD58U1tKuXxyEUdWg&expires1=1641571408
+愛爾達生活旅遊台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/index.m3u8?token=b--AQKdZsjFytvBwQ5RBOw&expires=1641571437&token1=-F2KDcr0d7eKAx9-0FKttg&expires1=1641571437
+龍華戲劇台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn18/4gtv-live-mid/index.m3u8?token=G5J7wdtyc6bwsrYDlWf3QA&expires=1641554681&token1=th-Oon2Gzk3PcQF2V9azDw&expires1=1641554681
+HITS頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live620/4gtv-live-mid/index.m3u8?token=PD_TeqvZIggD96l2r8v2ig&expires=1641554762&token1=ZO3qA0P73lG7hS6yRD3a9Q&expires1=1641554762
+龍華日韓台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn11/4gtv-live-mid/index.m3u8?token=N8Qczt5NB1wZsG5Ezmk5-A&expires=1641554776&token1=ovEBXDcmUJynsfJnW88I-g&expires1=1641554776
+八大精彩台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv034/4gtv-live-mid/index.m3u8?token=fuogSVhi5s12kkjfeIl7-g&expires=1641554792&token1=CK44Akezg31qI9h0f2BB8g&expires1=1641554792
+靖天戲劇台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv058/4gtv-live-mid/index.m3u8?token=YiV8I6alAWkMHO7w0yklUA&expires=1641554816&token1=DXV6v0HkT8-Ge8sZAUDeJg&expires1=1641554816
+靖洋戲劇台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv045/4gtv-live-mid/index.m3u8?token=Bfcw0ZPW8WWfSNywb87N6g&expires=1641554833&token1=EX_JZZM1L4pBiz5p8yNYPg&expires1=1641554833
+CI 罪案偵查頻道,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live027/4gtv-live-mid/index.m3u8?token=IWCqCdvBIkKzJXXEck54TQ&expires=1641554855&token1=Gl4X5zW9P786IKO9ZsRI7w&expires1=1641554855
+視納華仁紀實頻道,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv013/4gtv-live-mid/index.m3u8?token=QzEKs1ND6kH7uItLHWU02g&expires=1641554876&token1=GZpJ-whIIG_7e_VYxDaIpQ&expires1=1641554876
+影迷數位紀實台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live023/4gtv-live-mid/index.m3u8?token=LQaa2LchePPpowMFWBfLLg&expires=1641554897&token1=WFwNZSyp8fqEULRfg9PJdg&expires1=1641554897
+ROCK Extreme,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live138/4gtv-live-mid/index.m3u8?token=1JjNFsZcOPiWiMHcqP6X_w&expires=1641554913&token1=gRNmEpFak-jSQhimYtLlcg&expires1=1641554913
+采昌影劇台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/index.m3u8?token=GnxppSWhmHnW8Xw8Ivxjpg&expires=1641554946&token1=_tmZXp4EEE9zFEPNQktOyg&expires1=1641554946
+靖天映畫,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv055/4gtv-live-mid/index.m3u8?token=VdjsZh_JgglMW3FsEWp3WA&expires=1641554979&token1=I8wAWOYjq-3QintDetcoWQ&expires1=1641554979
+靖天電影台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv061/4gtv-live-mid/index.m3u8?token=kA6i7aENx2OQPxHuSyDonA&expires=1641554991&token1=2RyvKXXdMBaholqhthj05w&expires1=1641554991
+龍華電影台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn03/4gtv-live-mid/index.m3u8?token=VbuuN3wSJr3w_vCIpMUadQ&expires=1641555007&token1=U9E5hew83SNoy8foiX0myA&expires1=1641555007
+影迷數位電影台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv011/4gtv-live-mid/index.m3u8?token=JHjIOTdvE1xKoImgUWt0Gg&expires=1641555023&token1=sbRQqz6QpgyI0ZlCuazbZw&expires1=1641555023
+amc最愛電影,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv017/4gtv-live-mid/index.m3u8?token=Pd1f4n16dgIJ0rpW-Frlaw&expires=1641555036&token1=WAravG1yr6TYlYc6wju66g&expires1=1641555036
+CinemaWorld,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live069/4gtv-live-mid/index.m3u8?token=4HXO2w1lVVugWDjUPnDUJg&expires=1641555083&token1=JxTJsvqMCoAIEMwsgFKWyg&expires1=1641555083
+CATCHPLAY Beyond,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live155/4gtv-live-mid/index.m3u8?token=d6HEK-EWEmPTxDV2gnZgkA&expires=1641555051&token1=8Q1R1y8wwlKvYASzV-fzZA&expires1=1641555051
+CATCHPLAY電影台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv076/4gtv-live-mid/index.m3u8?token=LnXim3-5E1tMVhGKtAC_3A&expires=1641555066&token1=-cnm-jHI1-9MrslJsa_C9g&expires1=1641555066
+My Cinema Europe HD 我的歐洲電影,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live157/4gtv-live-mid/index.m3u8?token=s2rWe0NF4AX5YEXqSObqcA&expires=1641555116&token1=tFMa-Luj0RLlURGBhc3e9g&expires1=1641555116
+好消息2台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv17/4gtv-live-mid/index.m3u8?token=IfPeHtpwXZIjfrNW5Bv2nw&expires=1641571939&token1=2pfsc2SwOdbNHP5c6bA9Gw&expires1=1641571939
+好消息,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv16/4gtv-live-mid/index.m3u8?token=fTm5-WFG_3n_BAIB2DalZA&expires=1641555151&token1=geur0BbLg7BByimA24idVQ&expires1=1641555151
