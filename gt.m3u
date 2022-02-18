@@ -1,20 +1,7 @@
-#EXTM3U
-#EXTINF:-1,凤凰中文
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1,凤凰资讯
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1,凤凰香港HD
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-#EXTINF:-1,TVBJ1
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-#EXTINF:-1,tvn
+#EXTINF:-1,TVN
 http://iptv.tvfix.org/hls/tvn.m3u8
 #EXTINF:-1,翡翠台
 http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1,翡翠台广东版
-http://iptv.tvfix.org/hls/jadegd.m3u8
-#EXTINF:-1,翡翠台海外版(普通话简体)
-http://iptv.tvfix.org/hls/jadenhk2.m3u8
 #EXTINF:-1,TVBS亚洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
 #EXTINF:-1,TVBS新闻台
@@ -41,18 +28,12 @@ http://iptv.tvfix.org/hls/startv.m3u8
 http://iptv.tvfix.org/hls/ztxw.m3u8
 #EXTINF:-1,中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1,东森新闻
-http://50.7.61.147:30080/Entry/etnews
 #EXTINF:-1,HBO
 http://50.7.61.148:30080/Entry/hbo
 #EXTINF:-1,纬来日本
 http://50.7.61.147:30080/Entry/vljp
 #EXTINF:-1,台视 HD
 http://50.7.61.148:30080/Entry/ttv
-#EXTINF:-1,TVBS HD
-http://50.7.61.148:30080/Entry/tvbs
-#EXTINF:-1,民视新闻
-http://50.7.61.148:30080/Entry/ftvnews
 #EXTINF:-1,中视 HD
 http://50.7.61.148:30080/Entry/ctv
 #EXTINF:-1,TVBS新闻 HD
@@ -67,18 +48,10 @@ http://50.7.61.147:30080/Entry/jet
 http://50.7.61.147:30080/Entry/ftv
 #EXTINF:-1,华视CTS HD
 http://50.7.61.147:30080/Entry/cts
-#EXTINF:-1,壹新闻 HD
-http://50.7.61.147:30080/Entry/etv
-#EXTINF:-1,SET三立台湾
-http://50.7.61.148:30080/Entry/settw-
 #EXTINF:-1,卫视中文
 http://50.7.61.148:30080/Entry/starchinese
 #EXTINF:-1,AXN
 http://50.7.61.148:30080/Entry/axn
-#EXTINF:-1,三立台湾
-https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,三立都会
-https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,NHK·华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1,NHK·国际频道
@@ -203,35 +176,9 @@ http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
 http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 #EXTINF:-1,亞洲旅遊台
 http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
-#EXTINF:-1,松视1台
-https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
 #EXTINF:-1,松视2台
 https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 #EXTINF:-1,松视3台
 https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-#EXTINF:-1,松视4台
-https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
 #EXTINF:-1,潘朵啦玩美台
 https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
-#EXTINF:-1,彩虹e台
-rtmp://125.227.196.250:1935/live/Rainbowmovie
-#EXTINF:-1,K 頻道
-rtmp://125.227.196.250:1935/live/Kchannel
-#EXTINF:-1,香蕉台
-rtmp://125.227.196.250:1935/live/BananaStation
-#EXTINF:-1,驚豔成人電影台
-rtmp://125.227.196.250:1935/live/AmazingTaiwan
-#EXTINF:-1,JStar極限台電影頻道
-rtmp://125.227.196.250:1935/live/JSTAR
-#EXTINF:-1,潘朵啦高畫質粉紅台
-rtmp://125.227.196.250:1935/live/PandoraPlays
-#EXTINF:-1,潘朵啦高畫質玩美台
-rtmp://125.227.196.250:1935/live/PandoraPink
-#EXTINF:-1,松視1台
-rtmp://125.227.196.250:1935/live/PineVision1
-#EXTINF:-1,松視2台
-rtmp://125.227.196.250:1935/live/PineVision2
-#EXTINF:-1,松視3台
-rtmp://125.227.196.250:1935/live/PineVision3
-#EXTINF:-1,Happy
-rtmp://125.227.196.250:1935/live/HAPPY
