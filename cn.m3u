@@ -271,3 +271,5 @@ http://27.148.240.138/PLTV/88888888/224/3221227072/index.m3u8?GuardEncType=2&acc
 http://27.148.240.138/PLTV/88888888/224/3221227037/index.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EvtJkSim_lmX-dHbhhWd7aQ%7EvXOeg3Vr6um9ZK8fYhne93SRkH6_cmz5uHRfk7VpeiHZ_hvmZiwBJZjJi3dgFiqsN0Ykse-QcFJrOGLQxMSzDxPYXlVZ97tpqCSikhLTV3A%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%2CEND
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",央广购物
 http://27.148.240.138/PLTV/88888888/224/3221226826/index.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhLo2xQbOnPnXY72XX4bK6Q%7EvXOeg3Vr6um9ZK8fYhne93SRkH6_cmz5uHRfk7VpeiHZ_hvmZiwBJZjJi3dgFiqsN0Ykse-QcFJrOGLQxMSzDxPYXlVZ97tpqCSikhLTV3A%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%2CEND
+#EXTINF:-1,爆谷台
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
