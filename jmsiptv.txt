@@ -1,130 +1,339 @@
-香港
-翡翠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
-明珠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze7CNOJOFauZ0AShwAHr7Wt4
-无线新闻,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze5uSEj2QgX70JGc2TYZz3FM
-有线新闻,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9bT0dzcwkQqglDUH5RBHgM
-NOW新闻,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1P1tCEvxtJGORQfaAsIrPk
-Viutv,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze007IYn8wyf4bDLwU3ze8CI
-Viutv 6,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex8hn_KU1yaJgfyGQJm4gTY
-无线财经,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze6yNPXBqAv00zQY_SN6RmoQ
-有线财经,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3sJQ4oBZg0BBw_FGeGC9os
-J 2,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyk0kRA5PnWUIxfYKm0BcZ8
-有线603,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex_BDbLbOaKN3RoqagvKf9c
-18台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1rSSWHFOlAXCefNn8fkSUg
-港台31,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1lV34Sj9rtmxMrKsqt3DSI
-港台32,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze0OkqN2jcVHW8TB-S0JrdVc
-香港开电视,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze5TAJU33UnQNLgJWVy75cyg
-鳳凰香港,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeye785m1oylb49vvydnP6RY
-鳳凰衛視,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze-C6IgcRwozk4eW0CGKnEqc
-鳳凰資訊,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze8TMsBd9j6U2e7uAgvfjsX8
-澳门资讯,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze-NGAOoJtBA76lfWmOTuG28
-澳視葡語,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3cQrZBwbi8jyChOpy3JIWk
-澳門Macau,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3-kDnzdx36cMmiKi9fqG5g
-爆谷台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
-TVB经典台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze53WLv53IMxpHZj9SFFJ_kQ
-TVB 星河,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze4CYnnpnWtwLvhLInmrMHIw
-天映频道,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex7VNAVZJZkMihzqdCAl9go
-卫视电影台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyPvSZSS_LXHeDRJkhK127A
-美亚电影,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
-台湾
-龙华戏剧,http://59.125.98.83:8534/playlist.m3u8
-龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龙华日韩,http://59.125.98.83:8535/playlist.m3u8
-龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龙华偶像,http://59.125.98.83:8536/playlist.m3u8
-龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-东森电影,http://120.84.96.46:808/hls/32/index.m3u8
-东森电影,http://120.84.96.43:808/hls/32/index.m3u8
-东森电影,http://120.84.96.42:808/hls/32/index.m3u8
-东森电影,http://120.84.96.32:808/hls/86/index.m3u8
-东森电影,http://120.84.96.27:808/hls/32/index.m3u8
-东森电影,http://120.84.96.25:808/hls/32/index.m3u8
-东森洋片,http://120.84.96.42:808/hls/33/index.m3u8
-龙祥时代,http://120.84.96.25:808/hls/35/index.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森美洲新闻台,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
-华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=54
-长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=59
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-TVBS,http://38.64.72.148:80/hls/modn/list/8005/chunklist0.m3u8
-TVBS,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=95
-中天新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=53
-东森新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=55
-三立新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=57
-壹电视新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=58
-中视新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=60
-寰宇新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=63
-中视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=82
-台视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=83
-民视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=84
-华视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=86
-三立新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
-民视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
-寰宇新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
-中天新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
-TVBS新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbs.m3u8
-台视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
-TVBS欢乐台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
-民视台湾台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=99
-民视第一台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=100
-民视综艺,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=101
-民视旅游,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=102
-民视影剧,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=103
-4gtv
-4民視第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-5民視台灣台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-6民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-9大愛電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
-10中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-12華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-13三立綜合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-14客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-21新唐人亞太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
-23ARIRANG阿里郎頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
-30LiveABC互動英語頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-32ELTV生活英語台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-42MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-49東森購物一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
-50鏡電視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-51東森新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-52華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-53民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-54三立財經新聞iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
-55TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-56東森財經新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-57中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-58中天新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-62SBN全球財經台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
-69東森購物二台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
-70民視綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-71豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
-76中天全民最大黨,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
-105智林體育台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
-106時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
-111民視旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-112滾動力rollor,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
-113亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-121LUXE TV Channel,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
-123中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-125公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-126民視影劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-137金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
-160好消息2台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
-164人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
-170半島國際新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
-171VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
-173DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
-201經典電影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
-202經典卡通台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
-204精選動漫台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
-205華語戲劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-206華語綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
+#EXTM3U
+#EXTINF:-1 group-title="香港",翡翠台
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
+#EXTINF:-1 group-title="香港",明珠台
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze7CNOJOFauZ0AShwAHr7Wt4
+#EXTINF:-1 group-title="香港",无线新闻
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze5uSEj2QgX70JGc2TYZz3FM
+#EXTINF:-1 group-title="香港",有线新闻
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9bT0dzcwkQqglDUH5RBHgM
+#EXTINF:-1 group-title="香港",NOW新闻
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1P1tCEvxtJGORQfaAsIrPk
+#EXTINF:-1 group-title="香港",Viutv
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze007IYn8wyf4bDLwU3ze8CI
+#EXTINF:-1 group-title="香港",Viutv 6
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex8hn_KU1yaJgfyGQJm4gTY
+#EXTINF:-1 group-title="香港",无线财经
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze6yNPXBqAv00zQY_SN6RmoQ
+#EXTINF:-1 group-title="香港",有线财经
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3sJQ4oBZg0BBw_FGeGC9os
+#EXTINF:-1 group-title="香港",J 2
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyk0kRA5PnWUIxfYKm0BcZ8
+#EXTINF:-1 group-title="香港",有线603
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex_BDbLbOaKN3RoqagvKf9c
+#EXTINF:-1 group-title="香港",18台
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1rSSWHFOlAXCefNn8fkSUg
+#EXTINF:-1 group-title="香港",港台31
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1lV34Sj9rtmxMrKsqt3DSI
+#EXTINF:-1 group-title="香港",港台32
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze0OkqN2jcVHW8TB-S0JrdVc
+#EXTINF:-1 group-title="香港",香港开电视
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze5TAJU33UnQNLgJWVy75cyg
+#EXTINF:-1 group-title="香港",鳳凰香港
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeye785m1oylb49vvydnP6RY
+#EXTINF:-1 group-title="香港",鳳凰衛視
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze-C6IgcRwozk4eW0CGKnEqc
+#EXTINF:-1 group-title="香港",鳳凰資訊
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze8TMsBd9j6U2e7uAgvfjsX8
+#EXTINF:-1 group-title="香港",澳门资讯
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze-NGAOoJtBA76lfWmOTuG28
+#EXTINF:-1 group-title="香港",澳視葡語
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3cQrZBwbi8jyChOpy3JIWk
+#EXTINF:-1 group-title="香港",澳門Macau
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3-kDnzdx36cMmiKi9fqG5g
+#EXTINF:-1 group-title="香港",爆谷台
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
+#EXTINF:-1 group-title="香港",TVB经典台
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze53WLv53IMxpHZj9SFFJ_kQ
+#EXTINF:-1 group-title="香港",TVB 星河
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze4CYnnpnWtwLvhLInmrMHIw
+#EXTINF:-1 group-title="香港",天映频道
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex7VNAVZJZkMihzqdCAl9go
+#EXTINF:-1 group-title="香港",卫视电影台
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyPvSZSS_LXHeDRJkhK127A
+#EXTINF:-1 group-title="香港",美亚电影
+http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
+#EXTINF:-1 group-title="台湾",龙华戏剧
+http://59.125.98.83:8534/playlist.m3u8
+#EXTINF:-1 group-title="台湾",龙华戏剧
+http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="台湾",龙华日韩
+http://59.125.98.83:8535/playlist.m3u8
+#EXTINF:-1 group-title="台湾",龙华日韩
+http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="台湾",龙华偶像
+http://59.125.98.83:8536/playlist.m3u8
+#EXTINF:-1 group-title="台湾",龙华偶像
+http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="台湾",东森电影
+http://120.84.96.46:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="台湾",东森电影
+http://120.84.96.43:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="台湾",东森电影
+http://120.84.96.42:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="台湾",东森电影
+http://120.84.96.32:808/hls/86/index.m3u8
+#EXTINF:-1 group-title="台湾",东森电影
+http://120.84.96.27:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="台湾",东森电影
+http://120.84.96.25:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="台湾",东森洋片
+http://120.84.96.42:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="台湾",龙祥时代
+http://120.84.96.25:808/hls/35/index.m3u8
+#EXTINF:-1 group-title="台湾",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",东森美洲卫视
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",东森美洲新闻台
+http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",华语电视
+http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",华语电视2
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",华语电视3
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",TVBS新闻台
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=54
+#EXTINF:-1 group-title="台湾",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",民视新闻台
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=59
+#EXTINF:-1 group-title="台湾",台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",TVBS
+http://38.64.72.148:80/hls/modn/list/8005/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",TVBS
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=95
+#EXTINF:-1 group-title="台湾",中天新闻台
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=53
+#EXTINF:-1 group-title="台湾",东森新闻台
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=55
+#EXTINF:-1 group-title="台湾",三立新闻台
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=57
+#EXTINF:-1 group-title="台湾",壹电视新闻台
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=58
+#EXTINF:-1 group-title="台湾",中视新闻台
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=60
+#EXTINF:-1 group-title="台湾",寰宇新闻
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=63
+#EXTINF:-1 group-title="台湾",中视
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=82
+#EXTINF:-1 group-title="台湾",台视
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=83
+#EXTINF:-1 group-title="台湾",民视
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=84
+#EXTINF:-1 group-title="台湾",华视
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=86
+#EXTINF:-1 group-title="台湾",三立新闻
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
+#EXTINF:-1 group-title="台湾",民视新闻
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+#EXTINF:-1 group-title="台湾",寰宇新闻
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+#EXTINF:-1 group-title="台湾",中視新聞
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
+#EXTINF:-1 group-title="台湾",中天新闻
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
+#EXTINF:-1 group-title="台湾",TVBS新闻
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbs.m3u8
+#EXTINF:-1 group-title="台湾",台视新闻
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+#EXTINF:-1 group-title="台湾",TVBS欢乐台
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
+#EXTINF:-1 group-title="台湾",民视台湾台
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=99
+#EXTINF:-1 group-title="台湾",民视第一台
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=100
+#EXTINF:-1 group-title="台湾",民视综艺
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=101
+#EXTINF:-1 group-title="台湾",民视旅游
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=102
+#EXTINF:-1 group-title="台湾",民视影剧
+http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=103
+#EXTINF:-1 group-title="台湾",三立臺灣
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
+#EXTINF:-1 group-title="台湾",三立綜合
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/95db1e0a-0eee-423f-a8e4-b05fef9c21c8.m3u8
+#EXTINF:-1 group-title="台湾",ELTA影劇
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/5bd937d8-a211-4be2-8c5c-a0fb8e62b23f.m3u8
+#EXTINF:-1 group-title="台湾",ELTA體育1
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/7/c833577a-7377-4930-8da1-1f9571c4d0eb.m3u8
+#EXTINF:-1 group-title="台湾",ELTA體育2
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/a0c87361-87f0-422f-a9ba-c9d614f7fd8e.m3u8
+#EXTINF:-1 group-title="台湾",中視
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/2cc71359-2456-443d-8ddc-d9cf86fd8f39.m3u8
+#EXTINF:-1 group-title="台湾",中視新聞
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/2cfe8d82-fcaf-4931-95ed-655d60426101.m3u8
+#EXTINF:-1 group-title="台湾",公視
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/79ffbe07-bcea-493b-8ccc-386fc5ca2228.m3u8
+#EXTINF:-1 group-title="台湾",民視
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/bba1cd9a-b72b-4d29-a545-384d7de01cf7.m3u8
+#EXTINF:-1 group-title="台湾",民視新聞
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/17cd8809-c459-45c1-a1d0-c075645862d2.m3u8
+#EXTINF:-1 group-title="台湾",臺視
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/fa9c215a-4fbe-48c8-8264-42a72ab6e2b4.m3u8
+#EXTINF:-1 group-title="台湾",臺視新聞
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/8153b94d-cbd9-49e8-a105-45a5fed98f84.m3u8
+#EXTINF:-1 group-title="台湾",華視
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/9e556711-5918-49ec-bdc9-1837e9f4bc48.m3u8
+#EXTINF:-1 group-title="台湾",年代新聞
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/43e5a720-a239-4f03-9727-711f55e88e89.m3u8
+#EXTINF:-1 group-title="台湾",非凡新聞
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/253c4f77-5b43-4793-a186-dd8b88edc903.m3u8
+#EXTINF:-1 group-title="台湾",東森財經新聞
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/b543a5c6-2629-466f-8048-c943ee042636.m3u8
+#EXTINF:-1 group-title="台湾",東森新聞
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/451f0cdd-b2a7-4f08-85d9-d786b6b3423a.m3u8
+#EXTINF:-1 group-title="台湾",東森電影
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/55d60885-3825-4600-8a5c-1427ceae2aa6.m3u8
+#EXTINF:-1 group-title="台湾",東森洋片
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/cfbd4405-3f72-4aaa-80c8-fdbba94b6d2d.m3u8
+#EXTINF:-1 group-title="台湾",東森戲劇
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c9ad5922-8313-4c42-a327-174544661402.m3u8
+#EXTINF:-1 group-title="台湾",東森幼幼
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6f0752d1-787f-413d-abe2-f595bb0c55e3.m3u8
+#EXTINF:-1 group-title="台湾",龍華偶像
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/d6aed7e2-3138-4dd8-90b8-73be504e00c0.m3u8
+#EXTINF:-1 group-title="台湾",龍華戲劇
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1cddeff8-aa75-47c3-a013-f4f1275eef67.m3u8
+#EXTINF:-1 group-title="台湾",龍華洋片
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/848ebbde-2508-4567-b7b1-a0155c27c2c6.m3u8
+#EXTINF:-1 group-title="台湾",中天新聞
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/9ece40f1-712e-43c8-9639-018c38d088ba.m3u8
+#EXTINF:-1 group-title="台湾",中天綜合
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/4026260e-ec58-4e70-9083-7b632257880b.m3u8
+#EXTINF:-1 group-title="台湾",中天亞洲
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/86367931-34f8-4aa6-acb0-8fa4d577ae11.m3u8
+#EXTINF:-1 group-title="台湾",中天娛樂
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/308d8d9f-38ec-498c-a0f9-127127f03e78.m3u8
+#EXTINF:-1 group-title="台湾",八大第一
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6bb0001a-0201-4ae2-809d-c83e5e3e19f2.m3u8
+#EXTINF:-1 group-title="台湾",八大戲劇
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/1/b9681578-eb3b-45c4-b3e5-5f51c8daf2d4.m3u8
+#EXTINF:-1 group-title="台湾",八大娛樂
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ed74ad55-42d2-4613-b235-944683886177.m3u8
+#EXTINF:-1 group-title="台湾",八大綜合
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/0fdd4afc-c155-4164-8baa-b50c4488402d.m3u8
+#EXTINF:-1 group-title="台湾",TVBS新聞
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c772bec8-0cf3-4f31-b9b4-86511166bc99.m3u8
+#EXTINF:-1 group-title="台湾",靖天卡通
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/8c0b6427-06c1-4818-a7ed-b0defb96981d.m3u8
+#EXTINF:-1 group-title="台湾",EYETV旅遊
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/b9f35b1b-8c3d-45b9-9d5f-97fa2d808ee5.m3u8
+#EXTINF:-1 group-title="台湾",EYETV戲劇
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/35d20aac-a621-438e-8cf1-8433605954c3.m3u8
+#EXTINF:-1 group-title="台湾",CN卡通
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1ef6144e-d443-4346-be45-788442b24cc3.m3u8
+#EXTINF:-1 group-title="台湾",好萊塢電影
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6995f464-c034-4cf5-9b6a-e94ea4922ced.m3u8
+#EXTINF:-1 group-title="台湾",美亞電影
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ce77a1ce-f273-401d-8e88-1fc4cbab8c80.m3u8
+#EXTINF:-1 group-title="台湾",星衛電影
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/e3128db5-6ea6-4713-9b8b-78d23fbfe92a.m3u8
+#EXTINF:-1 group-title="台湾",HBO強檔鉅獻
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1a89cb28-80af-4fa8-86e2-b1ca69024d0a.m3u8
+#EXTINF:-1 group-title="台湾",CINEMAX
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6cf1d6f9-8057-4a4e-8eba-cd950c24f19d.m3u8
+#EXTINF:-1 group-title="4gtv",4民視第一台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+#EXTINF:-1 group-title="4gtv",5民視台灣台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+#EXTINF:-1 group-title="4gtv",6民視
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+#EXTINF:-1 group-title="4gtv",9大愛電視
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+#EXTINF:-1 group-title="4gtv",10中視
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+#EXTINF:-1 group-title="4gtv",12華視
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+#EXTINF:-1 group-title="4gtv",13三立綜合台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+#EXTINF:-1 group-title="4gtv",14客家電視台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+#EXTINF:-1 group-title="4gtv",21新唐人亞太台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
+#EXTINF:-1 group-title="4gtv",23ARIRANG阿里郎頻道
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
+#EXTINF:-1 group-title="4gtv",30LiveABC互動英語頻道
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+#EXTINF:-1 group-title="4gtv",32ELTV生活英語台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
+#EXTINF:-1 group-title="4gtv",42MOMO親子台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+#EXTINF:-1 group-title="4gtv",49東森購物一台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
+#EXTINF:-1 group-title="4gtv",50鏡電視新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+#EXTINF:-1 group-title="4gtv",51東森新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+#EXTINF:-1 group-title="4gtv",52華視新聞
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+#EXTINF:-1 group-title="4gtv",53民視新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+#EXTINF:-1 group-title="4gtv",54三立財經新聞iNEWS
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+#EXTINF:-1 group-title="4gtv",55TVBS新聞
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+#EXTINF:-1 group-title="4gtv",56東森財經新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+#EXTINF:-1 group-title="4gtv",57中視新聞
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+#EXTINF:-1 group-title="4gtv",58中天新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+#EXTINF:-1 group-title="4gtv",62SBN全球財經台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
+#EXTINF:-1 group-title="4gtv",69東森購物二台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
+#EXTINF:-1 group-title="4gtv",70民視綜藝台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+#EXTINF:-1 group-title="4gtv",71豬哥亮歌廳秀
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+#EXTINF:-1 group-title="4gtv",76中天全民最大黨
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
+#EXTINF:-1 group-title="4gtv",105智林體育台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
+#EXTINF:-1 group-title="4gtv",106時尚運動X
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
+#EXTINF:-1 group-title="4gtv",111民視旅遊台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+#EXTINF:-1 group-title="4gtv",112滾動力rollor
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
+#EXTINF:-1 group-title="4gtv",113亞洲旅遊台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+#EXTINF:-1 group-title="4gtv",121LUXE TV Channel
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
+#EXTINF:-1 group-title="4gtv",123中天美食旅遊
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+#EXTINF:-1 group-title="4gtv",125公視戲劇
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+#EXTINF:-1 group-title="4gtv",126民視影劇台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+#EXTINF:-1 group-title="4gtv",137金光布袋戲
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+#EXTINF:-1 group-title="4gtv",160好消息2台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
+#EXTINF:-1 group-title="4gtv",164人間衛視
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
+#EXTINF:-1 group-title="4gtv",170半島國際新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
+#EXTINF:-1 group-title="4gtv",171VOA美國之音
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
+#EXTINF:-1 group-title="4gtv",173DW德國之聲
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+#EXTINF:-1 group-title="4gtv",201經典電影台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
+#EXTINF:-1 group-title="4gtv",202經典卡通台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
+#EXTINF:-1 group-title="4gtv",204精選動漫台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
+#EXTINF:-1 group-title="4gtv",205華語戲劇台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
+#EXTINF:-1 group-title="4gtv",206華語綜藝台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
