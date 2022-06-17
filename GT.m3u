@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="台湾",靖天综合
-https://wabc.ml/hlk.php?id=86
-#EXTINF:-1 group-title="台湾",靖天资讯
-https://wabc.ml/hlk.php?id=118
-#EXTINF:-1 group-title="台湾",靖天育乐
-https://wabc.ml/hlk.php?id=100
-#EXTINF:-1 group-title="台湾",靖天映画
-https://wabc.ml/hlk.php?id=114
-#EXTINF:-1 group-title="台湾",靖天戏剧
-https://wabc.ml/hlk.php?id=106
-#EXTINF:-1 group-title="台湾",靖天日本
-https://wabc.ml/hlk.php?id=224
-#EXTINF:-1 group-title="台湾",靖天卡通
-https://wabc.ml/hlk.php?id=104
-#EXTINF:-1 group-title="台湾",靖天欢乐
-https://wabc.ml/hlk.php?id=107
-#EXTINF:-1 group-title="台湾",靖天国际
-https://wabc.ml/hlk.php?id=155
-#EXTINF:-1 group-title="台湾",亚洲旅游
-https://wabc.ml/hlk.php?id=119
-#EXTINF:-1 group-title="台湾",亚州综合
-https://wabc.ml/hlk.php?id=138
-#EXTINF:-1 group-title="台湾",星空卫视
-https://wabc.ml/hlk.php?id=1763
-#EXTINF:-1 group-title="台湾",台湾戏剧
-https://wabc.ml/hlk.php?id=233
 #EXTINF:-1 group-title="台湾",龙华戏剧
 http://59.125.98.83:8534/playlist.m3u8
 #EXTINF:-1 group-title="台湾",龙华日韩
@@ -58,8 +32,6 @@ http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=59
 #EXTINF:-1 group-title="台湾",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",TVBS
-http://38.64.72.148:80/hls/modn/list/8005/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾",TVBS
 http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=95
 #EXTINF:-1 group-title="台湾",中天新闻台
 http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=53
@@ -75,8 +47,6 @@ http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=60
 http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=63
 #EXTINF:-1 group-title="台湾",中视
 http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=82
-#EXTINF:-1 group-title="台湾",台视
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=83
 #EXTINF:-1 group-title="台湾",民视
 http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=84
 #EXTINF:-1 group-title="台湾",华视
@@ -101,12 +71,8 @@ http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
 http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=99
 #EXTINF:-1 group-title="台湾",民视第一台
 http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=100
-#EXTINF:-1 group-title="台湾",民视综艺
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=101
 #EXTINF:-1 group-title="台湾",民视旅游
 http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=102
-#EXTINF:-1 group-title="台湾",民视影剧
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=103
 #EXTINF:-1 group-title="台湾",三立臺灣
 http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
 #EXTINF:-1 group-title="台湾",三立綜合
@@ -191,99 +157,3 @@ http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811
 http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1a89cb28-80af-4fa8-86e2-b1ca69024d0a.m3u8
 #EXTINF:-1 group-title="台湾",CINEMAX
 http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6cf1d6f9-8057-4a4e-8eba-cd950c24f19d.m3u8
-#EXTINF:-1 group-title="4gtv",4民視第一台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-#EXTINF:-1 group-title="4gtv",5民視台灣台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-#EXTINF:-1 group-title="4gtv",6民視
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-#EXTINF:-1 group-title="4gtv",9大愛電視
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
-#EXTINF:-1 group-title="4gtv",10中視
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-#EXTINF:-1 group-title="4gtv",12華視
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-#EXTINF:-1 group-title="4gtv",13三立綜合台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-#EXTINF:-1 group-title="4gtv",14客家電視台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-#EXTINF:-1 group-title="4gtv",21新唐人亞太台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
-#EXTINF:-1 group-title="4gtv",23ARIRANG阿里郎頻道
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
-#EXTINF:-1 group-title="4gtv",30LiveABC互動英語頻道
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-#EXTINF:-1 group-title="4gtv",32ELTV生活英語台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-#EXTINF:-1 group-title="4gtv",42MOMO親子台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-#EXTINF:-1 group-title="4gtv",49東森購物一台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
-#EXTINF:-1 group-title="4gtv",50鏡電視新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-#EXTINF:-1 group-title="4gtv",51東森新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-#EXTINF:-1 group-title="4gtv",52華視新聞
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-#EXTINF:-1 group-title="4gtv",53民視新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-#EXTINF:-1 group-title="4gtv",54三立財經新聞iNEWS
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
-#EXTINF:-1 group-title="4gtv",55TVBS新聞
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-#EXTINF:-1 group-title="4gtv",56東森財經新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-#EXTINF:-1 group-title="4gtv",57中視新聞
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-#EXTINF:-1 group-title="4gtv",58中天新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-#EXTINF:-1 group-title="4gtv",62SBN全球財經台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
-#EXTINF:-1 group-title="4gtv",69東森購物二台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
-#EXTINF:-1 group-title="4gtv",70民視綜藝台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-#EXTINF:-1 group-title="4gtv",71豬哥亮歌廳秀
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
-#EXTINF:-1 group-title="4gtv",76中天全民最大黨
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
-#EXTINF:-1 group-title="4gtv",105智林體育台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
-#EXTINF:-1 group-title="4gtv",106時尚運動X
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
-#EXTINF:-1 group-title="4gtv",111民視旅遊台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-#EXTINF:-1 group-title="4gtv",112滾動力rollor
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
-#EXTINF:-1 group-title="4gtv",113亞洲旅遊台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-#EXTINF:-1 group-title="4gtv",121LUXE TV Channel
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
-#EXTINF:-1 group-title="4gtv",123中天美食旅遊
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-#EXTINF:-1 group-title="4gtv",125公視戲劇
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-#EXTINF:-1 group-title="4gtv",126民視影劇台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-#EXTINF:-1 group-title="4gtv",137金光布袋戲
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
-#EXTINF:-1 group-title="4gtv",160好消息2台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
-#EXTINF:-1 group-title="4gtv",164人間衛視
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
-#EXTINF:-1 group-title="4gtv",170半島國際新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
-#EXTINF:-1 group-title="4gtv",171VOA美國之音
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
-#EXTINF:-1 group-title="4gtv",173DW德國之聲
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
-#EXTINF:-1 group-title="4gtv",201經典電影台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
-#EXTINF:-1 group-title="4gtv",202經典卡通台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
-#EXTINF:-1 group-title="4gtv",204精選動漫台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
-#EXTINF:-1 group-title="4gtv",205華語戲劇台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-#EXTINF:-1 group-title="4gtv",206華語綜藝台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
