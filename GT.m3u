@@ -3,6 +3,8 @@
 http://59.125.98.83:8534/playlist.m3u8
 #EXTINF:-1 group-title="台湾",龙华日韩
 http://59.125.98.83:8535/playlist.m3u8
+#EXTINF:-1 group-title="台湾",龙华偶像
+http://59.125.98.83:8536/playlist.m3u8
 #EXTINF:-1 group-title="台湾",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",民视新闻
@@ -39,11 +41,3 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbs.m3u8
 #EXTINF:-1 group-title="台湾",台视新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
-#EXTINF:-1 group-title="台湾",TVBS欢乐台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
-#EXTINF:-1 group-title="台湾",民视台湾台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=99
-#EXTINF:-1 group-title="台湾",民视第一台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=100
-#EXTINF:-1 group-title="台湾",民视旅游
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=102
