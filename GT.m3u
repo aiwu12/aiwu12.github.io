@@ -5,6 +5,16 @@ http://59.125.98.83:8534/playlist.m3u8
 http://59.125.98.83:8535/playlist.m3u8
 #EXTINF:-1 group-title="台湾",龙华偶像
 http://59.125.98.83:8536/playlist.m3u8
+#EXTINF:-1 group-title="台湾",私人影院[1920*1080]
+http://27.47.71.92:808/hls/57/index.m3u8
+#EXTINF:-1 group-title="台湾",东森电影[1920*1080]
+http://27.47.71.92:808/hls/58/index.m3u8
+#EXTINF:-1 group-title="台湾",东森洋片[1920*1080]
+http://27.47.71.92:808/hls/59/index.m3u8
+#EXTINF:-1 group-title="台湾",中国电影[1920*1080]
+http://27.47.71.92:808/hls/61/index.m3u8
+#EXTINF:-1 group-title="台湾",天映经典[1920*1080]
+http://27.47.71.92:808/hls/62/index.m3u8
 #EXTINF:-1 group-title="台湾",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",民视新闻
@@ -27,170 +37,14 @@ http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾",三立新闻
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
-#EXTINF:-1 group-title="台湾",民视新闻
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
-#EXTINF:-1 group-title="台湾",寰宇新闻
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-#EXTINF:-1 group-title="台湾",中視新聞
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
-#EXTINF:-1 group-title="台湾",中天新闻
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
-#EXTINF:-1 group-title="台湾",TVBS新闻
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbs.m3u8
-#EXTINF:-1 group-title="台湾",台视新闻
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
-#EXTINF:-1 group-title="台湾备用",客家電視
-https://wabc.ml/hlk.php?id=422
-#EXTINF:-1 group-title="台湾备用",地方台
-https://wabc.ml/hlk.php?id=420
-#EXTINF:-1 group-title="台湾备用",民視
-https://wabc.ml/hlk.php?id=96
-#EXTINF:-1 group-title="台湾备用",民視台灣
-https://wabc.ml/hlk.php?id=97
-#EXTINF:-1 group-title="台湾备用",民視綜藝
-https://wabc.ml/hlk.php?id=92
-#EXTINF:-1 group-title="台湾备用",民視新聞
-https://wabc.ml/hlk.php?id=1011
-#EXTINF:-1 group-title="台湾备用",BabyFirst
-https://wabc.ml/hlk.php?id=78
-#EXTINF:-1 group-title="台湾备用",SMART知識
-https://wabc.ml/hlk.php?id=68
-#EXTINF:-1 group-title="台湾备用",美食星球
-https://wabc.ml/hlk.php?id=143
-#EXTINF:-1 group-title="台湾备用",靖天綜合
-https://wabc.ml/hlk.php?id=86
-#EXTINF:-1 group-title="台湾备用",靖天資訊
-https://wabc.ml/hlk.php?id=118
-#EXTINF:-1 group-title="台湾备用",靖天育樂
-https://wabc.ml/hlk.php?id=100
-#EXTINF:-1 group-title="台湾备用",靖天映畫
-https://wabc.ml/hlk.php?id=114
-#EXTINF:-1 group-title="台湾备用",靖天戲劇
-https://wabc.ml/hlk.php?id=106
-#EXTINF:-1 group-title="台湾备用",靖天日本
-https://wabc.ml/hlk.php?id=224
-#EXTINF:-1 group-title="台湾备用",靖天卡通
-https://wabc.ml/hlk.php?id=104
-#EXTINF:-1 group-title="台湾备用",靖天歡樂
-https://wabc.ml/hlk.php?id=107
-#EXTINF:-1 group-title="台湾备用",靖天國際
-https://wabc.ml/hlk.php?id=155
-#EXTINF:-1 group-title="台湾备用",靖洋卡通
-https://wabc.ml/hlk.php?id=147
-#EXTINF:-1 group-title="台湾备用",亞洲旅遊
-https://wabc.ml/hlk.php?id=119
-#EXTINF:-1 group-title="台湾备用",亞州旅遊
-https://wabc.ml/hlk.php?id=48
-#EXTINF:-1 group-title="台湾备用",亞州綜合
-https://wabc.ml/hlk.php?id=138
-#EXTINF:-1 group-title="台湾备用",台灣戲劇
-https://wabc.ml/hlk.php?id=233
-#EXTINF:-1 group-title="台湾备用",龍華戲劇
-https://wabc.ml/hlk.php?id=95
-#EXTINF:-1 group-title="台湾备用",龍華日韓
-https://wabc.ml/hlk.php?id=116
-#EXTINF:-1 group-title="台湾备用",龍華偶像
-https://wabc.ml/hlk.php?id=122
-#EXTINF:-1 group-title="台湾备用",龍華卡通
-https://wabc.ml/hlk.php?id=89
-#EXTINF:-1 group-title="台湾备用",龍華經典
-https://wabc.ml/hlk.php?id=234
-#EXTINF:-1 group-title="台湾备用",龍華電影
-https://wabc.ml/hlk.php?id=132
-#EXTINF:-1 group-title="台湾备用",梅迪奇藝術
-https://wabc.ml/hlk.php?id=246
-#EXTINF:-1 group-title="台湾备用",生活英語
-https://wabc.ml/hlk.php?id=249
-#EXTINF:-1 group-title="台湾备用",唯心電視
-https://wabc.ml/hlk.php?id=110
-#EXTINF:-1 group-title="台湾备用",人間衛視
-https://wabc.ml/hlk.php?id=99
-#EXTINF:-1 group-title="台湾备用",好消息
-https://wabc.ml/hlk.php?id=101
-#EXTINF:-1 group-title="台湾备用",好消息2
-https://wabc.ml/hlk.php?id=103
-#EXTINF:-1 group-title="台湾备用",中天亞州
-https://wabc.ml/hlk.php?id=121
-#EXTINF:-1 group-title="台湾备用",ETtoday綜合
-https://wabc.ml/hlk.php?id=146
-#EXTINF:-1 group-title="台湾备用",AO體育
-https://wabc.ml/hlk.php?id=65
-#EXTINF:-1 group-title="台湾备用",博斯網球
-https://wabc.ml/hlk.php?id=53
-#EXTINF:-1 group-title="台湾备用",博斯魅力
-https://wabc.ml/hlk.php?id=135
-#EXTINF:-1 group-title="台湾备用",博斯無限
-https://wabc.ml/hlk.php?id=129
-#EXTINF:-1 group-title="台湾备用",博斯無限II
-https://wabc.ml/hlk.php?id=418
-#EXTINF:-1 group-title="台湾备用",博斯高球I
-https://wabc.ml/hlk.php?id=108
-#EXTINF:-1 group-title="台湾备用",博斯高球II
-https://wabc.ml/hlk.php?id=125
-#EXTINF:-1 group-title="台湾备用",博斯運動I
-https://wabc.ml/hlk.php?id=102
-#EXTINF:-1 group-title="台湾备用",博斯運動II
-https://wabc.ml/hlk.php?id=124
-#EXTINF:-1 group-title="台湾备用",寰宇新聞
-https://wabc.ml/hlk.php?id=136
-#EXTINF:-1 group-title="台湾备用",寰宇新聞臺灣
-https://wabc.ml/hlk.php?id=137
-#EXTINF:-1 group-title="台湾备用",寰宇財經
-https://wabc.ml/hlk.php?id=141
-#EXTINF:-1 group-title="台湾备用",寰宇綜合
-https://wabc.ml/hlk.php?id=142
-#EXTINF:-1 group-title="台湾备用2",年代新闻
-http://220.134.196.147:9501/http/116.50.42.18:8081/hls/67/809/ch27.m3u8
-#EXTINF:-1 group-title="台湾备用2",东森新闻
-http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 group-title="台湾备用2",民视新闻
 http://220.134.196.147:9573/http/116.50.42.18:8081/hls/73/815/ch51.m3u8
-#EXTINF:-1 group-title="台湾备用2",三立新闻
-http://220.134.196.147:9543/http/116.50.42.18:8081/hls/65/807/ch18.m3u8
-#EXTINF:-1 group-title="台湾备用2",非凡新闻
-http://220.134.196.147:9506/http/116.50.42.18:8081/hls/75/817/ch57.m3u8
-#EXTINF:-1 group-title="台湾备用2",寰宇新闻
-http://220.134.196.147:9509/http/116.50.42.18:8081/hls/76/818/ch62.m3u8
-#EXTINF:-1 group-title="台湾备用2",壹新闻
-http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8
-#EXTINF:-1 group-title="台湾备用2",三立台湾
-http://220.134.196.147:9531/http/116.50.42.18:8081/hls/65/807/ch20.m3u8
 #EXTINF:-1 group-title="台湾备用2",台视
 http://220.134.196.147:9572/http/116.50.42.18:8081/hls/72/814/ch46.m3u8
 #EXTINF:-1 group-title="台湾备用2",中视
 http://220.134.196.147:9573/http/116.50.42.18:8081/hls/72/814/ch47.m3u8
-#EXTINF:-1 group-title="台湾备用2",华视
-http://220.134.196.147:9513/http/116.50.42.18:8081/hls/72/814/ch48.m3u8
 #EXTINF:-1 group-title="台湾备用2",民视
 http://220.134.196.147:9574/http/116.50.42.18:8081/hls/73/815/ch49.m3u8
-#EXTINF:-1 group-title="台湾备用2",公视
-http://220.134.196.147:9515/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
-#EXTINF:-1 group-title="台湾备用2",纬来综合
-http://220.134.196.147:9553/http/116.50.42.18:8081/hls/68/810/ch32.m3u8
-#EXTINF:-1 group-title="台湾备用2",八大第1
-http://220.134.196.147:9536/http/116.50.42.18:8081/hls/66/808/ch22.m3u8
-#EXTINF:-1 group-title="台湾备用2",八大綜合
-http://220.134.196.147:9530/http/116.50.42.18:8081/hls/66/808/ch21.m3u8
-#EXTINF:-1 group-title="台湾备用2",八大戏劇
-http://220.134.196.147:9542/http/116.50.42.18:8081/hls/66/808/ch23.m3u8
-#EXTINF:-1 group-title="台湾备用2",东森综合
-http://220.134.196.147:9534/http/116.50.42.18:8081/hls/63/805/ch12.m3u8
-#EXTINF:-1 group-title="台湾备用2",超视ᴴᴰ
-http://220.134.196.147:9535/http/116.50.42.18:8081/hls/64/806/ch14.m3u8
-#EXTINF:-1 group-title="台湾备用2",中天综合
-http://220.134.196.147:9536/http/116.50.42.18:8081/hls/67/809/ch25.m3u8
-#EXTINF:-1 group-title="台湾备用2",中天娱乐
-http://220.134.196.147:9541/http/116.50.42.18:8081/hls/67/809/ch26.m3u8
-#EXTINF:-1 group-title="台湾备用2",动物星球
-http://220.134.196.147:9522/http/116.50.42.18:8081/hls/70/812/ch37.m3u8
-#EXTINF:-1 group-title="台湾备用2",国家地理ᴴᴰ
-http://220.134.196.147:9519/http/116.50.42.18:8081/hls/61/803/ch01.m3u8
-#EXTINF:-1 group-title="台湾备用2",搜索发现
-http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
-#EXTINF:-1 group-title="台湾备用2",纬来育乐
-http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 #EXTINF:-1 group-title="台湾备用2",纬来体育
 http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 #EXTINF:-1 group-title="台湾备用2",博斯运动1
