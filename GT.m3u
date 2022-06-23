@@ -37,79 +37,87 @@ http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾备用2",民视新闻
+#EXTINF:-1 group-title="台湾",民视新闻
 http://220.134.196.147:9573/http/116.50.42.18:8081/hls/73/815/ch51.m3u8
-#EXTINF:-1 group-title="台湾备用2",台视
+#EXTINF:-1 group-title="台湾",台视
 http://220.134.196.147:9572/http/116.50.42.18:8081/hls/72/814/ch46.m3u8
-#EXTINF:-1 group-title="台湾备用2",中视
+#EXTINF:-1 group-title="台湾",中视
 http://220.134.196.147:9573/http/116.50.42.18:8081/hls/72/814/ch47.m3u8
-#EXTINF:-1 group-title="台湾备用2",民视
+#EXTINF:-1 group-title="台湾",民视
 http://220.134.196.147:9574/http/116.50.42.18:8081/hls/73/815/ch49.m3u8
-#EXTINF:-1 group-title="台湾备用2",纬来体育
+#EXTINF:-1 group-title="台湾",纬来体育
 http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-#EXTINF:-1 group-title="台湾备用2",博斯运动1
+#EXTINF:-1 group-title="台湾",博斯运动1
 http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
-#EXTINF:-1 group-title="台湾备用2",寰宇新闻
-http://60.251.59.180:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
-#EXTINF:-1 group-title="台湾备用2",壹电视新闻
-http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
-#EXTINF:-1 group-title="台湾备用2",三立新闻
-http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-#EXTINF:-1 group-title="台湾备用2",东森新闻
-http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
-#EXTINF:-1 group-title="台湾备用2",华视资源新闻
-http://60.251.59.180:8516/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-#EXTINF:-1 group-title="台湾备用2",年代新闻
-http://60.251.59.180:8502/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-#EXTINF:-1 group-title="台湾备用2",东森财经新闻
-http://60.251.59.180:8514/http/60.251.39.91:8081/hls/63/805/ch11.m3u8
-#EXTINF:-1 group-title="台湾备用2",东森财经新闻
-http://60.251.59.180:8514/http/60.251.39.91:8081/hls/68/810/ch29.m3u8
-#EXTINF:-1 group-title="台湾备用2",三立台湾
-http://60.251.59.180:8531/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
-#EXTINF:-1 group-title="台湾备用2",三立都会
-http://60.251.59.180:8545/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
-#EXTINF:-1 group-title="台湾备用2",卫视中文
-http://60.251.59.180:8530/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-#EXTINF:-1 group-title="台湾备用2",卫视电影台
-http://60.251.59.180:8523/http/60.251.39.91:8081/hls/62/804/ch07.m3u8
-#EXTINF:-1 group-title="台湾备用2",龙华偶像
-http://60.251.59.180:8536/http/60.251.39.91:8066/hls/210/10012/cstv12.m3u8
-#EXTINF:-1 group-title="台湾备用2",龙华卡通
-http://60.251.59.180:8517/http/60.251.39.91:8066/hls/210/10013/cstv13.m3u8
-#EXTINF:-1 group-title="台湾备用2",动物星球
-http://60.251.59.180:8512/http/60.251.39.91:8081/hls/70/812/ch37.m3u8
-#EXTINF:-1 group-title="台湾备用2",纬来综合
-http://60.251.59.180:8529/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
-#EXTINF:-1 group-title="台湾备用2",纬来戏剧
-http://60.251.59.180:8536/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-#EXTINF:-1 group-title="台湾备用2",纬来电影
-http://60.251.59.180:8537/http/60.251.39.91:8081/hls/69/811/ch35.m3u8
-#EXTINF:-1 group-title="台湾备用2",国兴卫视
-http://60.251.59.180:8545/http/60.251.39.91:8081/hls/64/806/ch15.m3u8
-#EXTINF:-1 group-title="台湾备用2",探索发现
-http://60.251.59.180:8510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
-#EXTINF:-1 group-title="台湾备用2",八大综合
-http://60.251.59.180:8529/http/60.251.39.91:8081/hls/66/808/ch21.m3u8
-#EXTINF:-1 group-title="台湾备用2",八大第一
-http://60.251.59.180:8536/http/60.251.39.91:8081/hls/66/808/ch22.m3u8
-#EXTINF:-1 group-title="台湾备用2",八大戏剧
-http://60.251.59.180:8516/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
-#EXTINF:-1 group-title="台湾备用2",东森综合
-http://60.251.59.180:8528/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
-#EXTINF:-1 group-title="台湾备用2",东森戏剧
-http://60.251.59.180:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-#EXTINF:-1 group-title="台湾备用2",东森超视
-http://60.251.59.180:8533/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
-#EXTINF:-1 group-title="台湾备用2",好莱坞电影
-http://60.251.59.180:8536/http/60.251.39.91:8081/hls/74/816/ch55.m3u8
-#EXTINF:-1 group-title="台湾备用2",亚洲旅游
-http://60.251.59.180:8513/http/60.251.39.91:8081/hls/76/818/ch61.m3u8
-#EXTINF:-1 group-title="台湾备用2",纬来体育
-http://60.251.59.180:8533/http/60.251.39.91:8081/hls/67/809/ch28.m3u8
-#EXTINF:-1 group-title="台湾备用2",纬来育乐
-http://60.251.59.180:8532/http/60.251.39.91:8081/hls/68/810/ch30.m3u8
-#EXTINF:-1 group-title="台湾备用2",龙华戏剧
-http://60.251.59.180:8536/http/60.251.39.91:8066/hls/210/10010/cstv10.m3u8
-#EXTINF:-1 group-title="台湾备用2",龙华电影
-http://60.251.59.180:8538/http/60.251.39.91:8066/hls/210/10014/cstv14.m3u8
+#EXTINF:-1 group-title="宝岛",民视
+http://59.125.101.187:10714/http/192.168.77.24:8081/hls/73/815/ch49.m3u8
+#EXTINF:-1 group-title="宝岛",台视
+http://59.125.101.187:10702/http/192.168.77.24:8081/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="宝岛",华视
+http://59.125.101.187:10713/http/192.168.77.24:8088/hls/72/814/ch48.m3u8
+#EXTINF:-1 group-title="宝岛",公视
+http://59.125.101.187:10705/http/192.168.77.24:8081/hls/73/815/ch50.m3u8
+#EXTINF:-1 group-title="宝岛",华视新闻
+http://59.125.101.187:10704/http/192.168.77.24:8081/hls/75/817/ch58.m3u8
+#EXTINF:-1 group-title="宝岛",非凡新闻
+http://59.125.101.187:10706/http/192.168.77.24:8081/hls/75/817/ch57.m3u8
+#EXTINF:-1 group-title="宝岛",寰宇新闻
+http://59.125.101.187:10709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1 group-title="宝岛",寰宇新闻
+http://59.125.101.187:10709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8
+#EXTINF:-1 group-title="宝岛",壹新闻
+http://59.125.101.187:10710/http/192.168.77.24:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 group-title="宝岛",中天新闻
+http://59.125.101.187:10703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="宝岛",中天综合
+http://59.125.101.187:10733/http/192.168.77.24:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 group-title="宝岛",东森综合
+http://59.125.101.187:10771/http/192.168.77.24:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 group-title="宝岛",三立新闻
+http://59.125.101.187:10756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1 group-title="宝岛",三立都会
+http://59.125.101.187:10732/http/192.168.77.24:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 group-title="宝岛",年代MUCH
+http://59.125.101.187:10775/http/192.168.77.24:8081/hls/64/806/ch15.m3u8
+#EXTINF:-1 group-title="宝岛",年代MUCH
+http://59.125.101.187:10729/http/192.168.77.24:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 group-title="宝岛",中天娱乐
+http://59.125.101.187:10734/http/192.168.77.24:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 group-title="宝岛",东森戏剧
+http://59.125.101.187:10772/http/192.168.77.24:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1 group-title="宝岛",纬来综合
+http://59.125.101.187:10770/http/192.168.77.24:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1 group-title="宝岛",纬来戏剧
+http://59.125.101.187:10756/http/192.168.77.24:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="宝岛",纬来育乐
+http://59.125.101.187:10762/http/192.168.77.24:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="宝岛",龙华戏剧
+http://59.125.101.187:10764/http/192.168.77.24:8066/hls/210/10010/cstv10.m3u8
+#EXTINF:-1 group-title="宝岛",龙华戏剧
+http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
+#EXTINF:-1 group-title="宝岛",龙华戏剧
+http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
+#EXTINF:-1 group-title="宝岛",龙华日韩
+http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8
+#EXTINF:-1 group-title="宝岛",龙华日韩
+http://59.125.101.187:10763/http/192.168.77.24:8066/hls/210/10011/cstv11.m3u8
+#EXTINF:-1 group-title="宝岛",龙华偶象
+http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+#EXTINF:-1 group-title="宝岛",龙华偶象
+http://59.125.101.187:10762/http/192.168.77.24:8066/hls/210/10012/cstv12.m3u8
+#EXTINF:-1 group-title="宝岛",卫视中文
+http://59.125.101.187:10720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8
+#EXTINF:-1 group-title="宝岛",纬来电影
+http://59.125.101.187:10710/http/192.168.77.24:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 group-title="宝岛",卫视电影
+http://59.125.101.187:10745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8
+#EXTINF:-1 group-title="宝岛",卫视电影
+http://59.125.101.187:10753/http/192.168.77.24:8081/hls/62/804/ch07.m3u8
+#EXTINF:-1 group-title="宝岛",好莱坞电影
+http://59.125.101.187:10754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8
+#EXTINF:-1 group-title="宝岛",国家地理
+http://59.125.101.187:10709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8
+#EXTINF:-1 group-title="宝岛",动物星球
+http://59.125.101.187:10719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8
+#EXTINF:-1 group-title="宝岛",亚洲旅游
+http://59.125.101.187:10744/http/192.168.77.24:8081/hls/76/818/ch61.m3u8
