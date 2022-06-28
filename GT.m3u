@@ -5,16 +5,6 @@ http://59.125.98.83:8534/playlist.m3u8
 http://59.125.98.83:8535/playlist.m3u8
 #EXTINF:-1 group-title="台湾",龙华偶像
 http://59.125.98.83:8536/playlist.m3u8
-#EXTINF:-1 group-title="台湾",私人影院[1920*1080]
-http://27.47.71.92:808/hls/57/index.m3u8
-#EXTINF:-1 group-title="台湾",东森电影[1920*1080]
-http://27.47.71.92:808/hls/58/index.m3u8
-#EXTINF:-1 group-title="台湾",东森洋片[1920*1080]
-http://27.47.71.92:808/hls/59/index.m3u8
-#EXTINF:-1 group-title="台湾",中国电影[1920*1080]
-http://27.47.71.92:808/hls/61/index.m3u8
-#EXTINF:-1 group-title="台湾",天映经典[1920*1080]
-http://27.47.71.92:808/hls/62/index.m3u8
 #EXTINF:-1 group-title="台湾",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",民视新闻
