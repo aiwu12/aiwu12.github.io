@@ -15,18 +15,6 @@ http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾",民视新闻
-http://220.134.196.147:9573/http/116.50.42.18:8081/hls/73/815/ch51.m3u8
-#EXTINF:-1 group-title="台湾",台视
-http://220.134.196.147:9572/http/116.50.42.18:8081/hls/72/814/ch46.m3u8
-#EXTINF:-1 group-title="台湾",中视
-http://220.134.196.147:9573/http/116.50.42.18:8081/hls/72/814/ch47.m3u8
-#EXTINF:-1 group-title="台湾",民视
-http://220.134.196.147:9574/http/116.50.42.18:8081/hls/73/815/ch49.m3u8
-#EXTINF:-1 group-title="台湾",纬来体育
-http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-#EXTINF:-1 group-title="台湾",博斯运动1
-http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 #EXTINF:-1 group-title="4GTV",4民視第一台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
 #EXTINF:-1 group-title="4GTV",5民視台灣台
