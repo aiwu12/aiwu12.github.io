@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="台湾",龙华戏剧
-http://59.125.98.83:8534/playlist.m3u8
-#EXTINF:-1 group-title="台湾",龙华日韩
-http://59.125.98.83:8535/playlist.m3u8
-#EXTINF:-1 group-title="台湾",龙华偶像
-http://59.125.98.83:8536/playlist.m3u8
 #EXTINF:-1 group-title="台湾",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",东森美洲卫视
