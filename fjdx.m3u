@@ -215,12 +215,6 @@ http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="台湾",8TV
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-#EXTINF:-1 group-title="台湾",三立台灣台
-http://sanlihalive1-a.akamaihd.net/0303cb3643ae4096bec825cd52d1e886/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1661492109~exp=9007200916233100~acl=/0303cb3643ae4096bec825cd52d1e886/*/profile_0/chunklist.m3u8*~hmac=fb3174a75f8b2df86038e9fce4c7af32557806fd3fb207aa310768c1d69b1243
-#EXTINF:-1 group-title="台湾",三立都會台
-http://sanlihalive1-a.akamaihd.net/6ea5815ebc72401ba5b92238933ead30/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1661497931~exp=9007200916238922~acl=/6ea5815ebc72401ba5b92238933ead30/*/profile_0/chunklist.m3u8*~hmac=528b5e6bb3af6d60622af5f36c87c7dd1800fbaf12b2aa116a42736b58bbb72e
 #EXTINF:-1 group-title="4GTV",4民視第一台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
 #EXTINF:-1 group-title="4GTV",5民視台灣台
