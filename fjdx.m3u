@@ -279,3 +279,28 @@ rtsp://27.148.236.129:554/live/ch22050916410461364600.sdp?FccMediaIP=239.61.3.58
 rtsp://27.148.236.129:554/live/ch20080318591145689410.sdp?vcdnid=001&mediaid=ch20080318591145689410&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPekH56ch15j6VF4a%2FKEGS%2FuLUO2xqCtzcFqhT9GWbmfFx0d8RtgP2DayASZlOpMLMaA%3D%3D
 #EXTINF:-1 group-title="体育",马赛克导航2
 rtsp://27.148.236.129:554/live/ch22032217194788269567.sdp?FccMediaIP=239.61.3.54&FccMediaPort=9842&vcdnid=001&mediaid=ch22032217194788269567&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPesAeivHi4Y3K9iKmkpkTBmR9DHQY9Pc3d1M9Roykf%2B3n0d8RtgP2DayASZlOpMLMaA%3D%3D
+#EXTM3U
+#EXTINF:-1 group-title="酒店",凤凰中文
+http://27.47.71.94:8811/hls/32/index.m3u8
+#EXTINF:-1 group-title="酒店",凤凰资讯
+http://27.47.71.94:8811/hls/33/index.m3u8
+#EXTINF:-1 group-title="酒店",凤凰香港
+http://27.47.71.94:8811/hls/34/index.m3u8
+#EXTINF:-1 group-title="酒店",翡翠台
+http://27.47.71.94:8811/hls/36/index.m3u8
+#EXTINF:-1 group-title="酒店",明珠台
+http://27.47.71.94:8811/hls/37/index.m3u8
+#EXTINF:-1 group-title="酒店",星空卫视
+http://27.47.71.94:8811/hls/31/index.m3u8
+#EXTINF:-1 group-title="酒店",TVB星河
+http://27.47.71.94:8811/hls/35/index.m3u8
+#EXTINF:-1 group-title="酒店",东森电影
+http://27.47.71.94:8811/hls/58/index.m3u8
+#EXTINF:-1 group-title="酒店",东森洋片
+http://27.47.71.94:8811/hls/59/index.m3u8
+#EXTINF:-1 group-title="酒店",龙祥时代
+http://27.47.71.94:8811/hls/38/index.m3u8
+#EXTINF:-1 group-title="酒店",天映经典
+http://27.47.71.94:8811/hls/62/index.m3u8
+#EXTINF:-1 group-title="酒店",私人影院
+http://27.47.71.94:8811/hls/57/index.m3u8
