@@ -2,6 +2,8 @@
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 tvg-name="河南4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="IPV6-4K",河南4K
 http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+http://27.148.240.138/PLTV/88888888/224/3221226773/index.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EoZ-ICuHW6yqOfZGPqMmekg%7EvXOeg3Vr6um9ZK8fYhne93SRkH6_cmz5uHRfk7VpeiHZ_hvmZiwBJZjJi3dgFiqsN0Ykse-QcFJrOGLQxMSzDxPYXlVZ97tpqCSikhLTV3A%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%2CEND
 #EXTINF:-1 group-title="央视",CCTV2
 rtsp://27.148.236.129:554/live/ch17092208064869858322.sdp?FccMediaIP=239.61.2.174&FccMediaPort=9032&vcdnid=001&mediaid=ch17092208064869858322&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeuVNSmW%2FuLInEI%2B506xatIjpx2DLyv397eUrqBoM35ZL0d8RtgP2DayASZlOpMLMaA%3D%3D
 #EXTINF:-1 group-title="央视",CCTV3
